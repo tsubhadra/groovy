@@ -1,4 +1,6 @@
 println "Hello, Groovy!"
-def name = "Subhadra"
-println "Welcome, $name"
+
+def name = "Alice" 
+def age = 25
+println "Hello ${name}, you are ${age} years old"
 
